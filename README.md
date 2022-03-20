@@ -13,3 +13,5 @@ Some future updates could include
 Automatic analysis = have a sheet that includes stats and automatic analysis for ordering. 
 Average monthly consumption, to estimate when inventory needs to be re-ordered.
 Automatic invoicing generation into a pdf-file that can be sent to clients, automatic email function is considered. 
+
+Uses a combination of VBA Macros and Excel-Formulas to perform functions
